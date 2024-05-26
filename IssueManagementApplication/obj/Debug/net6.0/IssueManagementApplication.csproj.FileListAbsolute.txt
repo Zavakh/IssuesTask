@@ -1,0 +1,38 @@
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.exe
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.deps.json
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.runtimeconfig.json
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.pdb
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementLibrary.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementLibrary.pdb
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.csproj.AssemblyReference.cache
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.AssemblyInfoInputs.cache
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.AssemblyInfo.cs
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.csproj.CopyComplete
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\refint\IssueManagementApplication.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.pdb
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.genruntimeconfig.cache
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementApplication\obj\Debug\net6.0\ref\IssueManagementApplication.dll
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.exe
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.deps.json
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.runtimeconfig.json
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.dll
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementApplication.pdb
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementLibrary.dll
+C:\MyProj\IssueManagementApplication\bin\Debug\net6.0\IssueManagementLibrary.pdb
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.csproj.AssemblyReference.cache
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.AssemblyInfoInputs.cache
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.AssemblyInfo.cs
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.csproj.CoreCompileInputs.cache
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.csproj.CopyComplete
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.dll
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\refint\IssueManagementApplication.dll
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.pdb
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\IssueManagementApplication.genruntimeconfig.cache
+C:\MyProj\IssueManagementApplication\obj\Debug\net6.0\ref\IssueManagementApplication.dll

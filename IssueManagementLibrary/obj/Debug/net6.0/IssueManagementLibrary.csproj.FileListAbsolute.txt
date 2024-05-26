@@ -1,0 +1,24 @@
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\bin\Debug\net6.0\IssueManagementLibrary.deps.json
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\bin\Debug\net6.0\IssueManagementLibrary.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\bin\Debug\net6.0\IssueManagementLibrary.pdb
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.AssemblyInfo.cs
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\refint\IssueManagementLibrary.dll
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.pdb
+C:\Users\kkolasa\OneDrive - Euvic\Desktop\MyProj\IssueManagementLibrary\obj\Debug\net6.0\ref\IssueManagementLibrary.dll
+C:\MyProj\IssueManagementLibrary\bin\Debug\net6.0\IssueManagementLibrary.deps.json
+C:\MyProj\IssueManagementLibrary\bin\Debug\net6.0\IssueManagementLibrary.dll
+C:\MyProj\IssueManagementLibrary\bin\Debug\net6.0\IssueManagementLibrary.pdb
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.csproj.AssemblyReference.cache
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.AssemblyInfoInputs.cache
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.AssemblyInfo.cs
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.csproj.CoreCompileInputs.cache
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.dll
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\refint\IssueManagementLibrary.dll
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\IssueManagementLibrary.pdb
+C:\MyProj\IssueManagementLibrary\obj\Debug\net6.0\ref\IssueManagementLibrary.dll
